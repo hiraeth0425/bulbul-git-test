@@ -1,0 +1,39 @@
+{
+    "response": {
+      "status": "success",
+      "message": "",
+      "data": [
+        {
+          "cityId": "4442",
+          "cityName": "Singapore",
+          "airports": [
+            {
+              "airportId": "SIN",
+              "airportName": "Singapore Changi",
+              "longitude": 103.99,
+              "latitude": 1.35
+            },
+            {
+              "airportId": "XSP",
+              "airportName": "Seletar Airport",
+              "longitude": 103.87,
+              "latitude": 1.42
+            }
+          ]
+        },
+        {
+          "cityId": "4869",
+          "cityName": "Taipei",
+          "airports": [
+            {
+              "airportId": "TPE",
+              "airportName": "Taiwan Taoyuan Int'l",
+              "longitude": 121.232822,
+              "latitude": 25.077731
+            }
+          ]
+        }
+      ]
+    }
+  }
+  
