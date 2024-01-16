@@ -7,7 +7,7 @@
           <img src="@/assets/bannerPic.jfif" alt="">
           <div class="float">
             <h1>白頭翁 (Chinese bulbul)測試測試</h1>
-            <p>又名白頭鵯。以果實、昆蟲為主食，無法消化小米、穀類。平均壽命約 8~10 年。</p>
+            <p>又名白頭鵯。以果實、昆蟲為主食，無法消化小米、穀類。平均壽命約 8~10 年。測試測試</p>
           </div>
       </div>
           <div class="containerText">
