@@ -24,6 +24,7 @@ const onHambuger = () => {
       <div class="sec-menu hidden-sm-and-up">
         <el-button :icon="Expand" size="large" @click="onHambuger"></el-button>
         <h2>白頭翁不吃小米要吃大米</h2>
+        <h3>老鼠愛大米</h3>
         <div class="logoTitle">
           <svg viewBox="0 0 100 100">
             <ellipse cx="60.5" cy="50.5" rx="27.5" ry="26.5" fill="black"/>
